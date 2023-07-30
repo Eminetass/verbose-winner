@@ -1,7 +1,7 @@
 #veriYapıları-selection/İnsertion/marge/binary search tree
 insertion-selection short ve ilgili kavramları örneklerle açıklanır.<br>
 <br>
-******[22,27,16,2,18,6] -> insertion sort
+******[22,27,16,2,18,6] -> insertion sort 
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
