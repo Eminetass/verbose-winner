@@ -1,4 +1,4 @@
-#veriYapıları-selectionİnsertion 
+#veriYapıları-selection/İnsertion/marge/binary search tree
 insertion-selection short ve ilgili kavramları örneklerle açıklanır.<br>
 <br>
 ******[22,27,16,2,18,6] -> insertion sort
@@ -44,6 +44,26 @@ big-O notasyonu O(n^2) dir.
 [11,16,21]       [8,12,22]
 
 [8,11,12,16,21,22]
+
+
+******* Binary search tree
+
+
+[7,5,1,8,3,6,0,9,4,2] dizisinin binary search tree aşamalarını yazalım.
+
+
+             7
+          /    \ 
+        /        \
+       5           8
+     /   \          \
+   /   \   6        9
+  3     2
+         \
+          1
+
+
+
 
 
 
