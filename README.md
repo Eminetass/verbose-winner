@@ -31,9 +31,19 @@ big-O notasyonu O(n^2) dir.
 [2,3,4,5,6,7,8,9,15] 
 
 
+****** [16,21,11,8,12,22] ->marge sort 
 
 
 
+[16,21,11,8,12,22] marge sort  gösteriminde guruplandırmalar yaparak sıralanır 
+
+[16,21,11]                 [8,12,22]
+
+[16] [11,21]          [8,12,22]
+
+[11,16,21]       [8,12,22]
+
+[8,11,12,16,21,22]
 
 
 
